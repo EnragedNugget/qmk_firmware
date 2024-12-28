@@ -20,4 +20,5 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
 
 
 Num Lock LED Indicator turned off.
+
 Updated so that it authorizes to VIA for easy keymapping.
