@@ -24,3 +24,6 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
     Num Lock LED Indicator turned off.
 
     Updated so that it authorizes to VIA for easy keymapping.
+
+    Build and flash it using QMK MSYS in windows.
+    You might have to type the command "cd qmk_firmware/" in order to change directory after the qmk setup is done.
